@@ -1,0 +1,24 @@
+Symbol	Company	
+	
+AAPL	Apple Inc. Common Stock	
+MSFT	Microsoft Corporation Common Stock	
+AMZN	Amazon.com, Inc. Common Stock	
+GOOG	Alphabet Inc. Class C Capital Stock	
+GOOGL	Alphabet Inc. Class A Common Stock	
+BABA	Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share	
+FB	Facebook, Inc. Class A Common Stock	
+TCEHY	Tencent Holdings Ltd. ADR	
+BRK/A	Berkshire Hathaway Inc.	
+BRK/B	Berkshire Hathaway Inc.	
+TSM	Taiwan Semiconductor Manufacturing Company Ltd.	
+V	Visa Inc.	
+TSLA	Tesla, Inc. Common Stock	
+WMT	Walmart Inc. Common Stock	
+JNJ	Johnson & Johnson Common Stock	
+PG	Procter & Gamble Company (The) Common Stock	
+NVDA	NVIDIA Corporation Common Stock
+MA	Mastercard Incorporated Common Stock	
+NSRGF	Nestle SA	
+NSRGY	Nestle SA ADR
+NFLX    Netflix, Inc. Common Stock
+ADBE    Adobe Inc. Common Stock
